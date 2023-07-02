@@ -1,0 +1,13 @@
+If ptr is pointing to nothing (nullptr) dynamically create an array of size one.
+If the array is full, then double the size of the array.
+
+push_back()
+front() -> returns first element
+back() -> returns last element
+size() -> return number of elements
+empty() -> returns true if size is 0, false otherwise
+at() -> returns nth item in vector
+
+
+insertion operator overload
++=
